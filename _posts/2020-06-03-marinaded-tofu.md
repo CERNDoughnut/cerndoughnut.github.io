@@ -8,8 +8,6 @@ tags: [recipe, base, versatile, vegan, protein]
 date-string: JUNE 03, 2020
 ---
 
-# Marinaded Stir-fry Tofu
-
 This versatile tofu can be added to many dishes to spice things up with some healthy, vegan protein! My favourite combo is to add some red, orange or yellow peppers and spring onion but feel free to put your own spin on it by adding your own favourite veg!
 
 The tofu is best left to marinade in the fridge overnight so it soaks up the most flavour. It should last in the fridge (in a sealed container) for about a week, but your mileage may vary.

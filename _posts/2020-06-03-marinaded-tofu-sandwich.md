@@ -8,8 +8,6 @@ tags: [recipe, lunch, versatile, vegan, protein, sandwich]
 date-string: JUNE 03, 2020
 ---
 
-# Marinaded Tofu Sandwich
-
 This recipe makes use of the base [marinaded stir-fry tofu recipe](./2020-06-03-marinaded-tofu.md). You can use any type of bread (or skip it entirely!) but for best results I'd recommend a freshly baked, crusty roll or a bake-at-home petit pain.
 
 >**Makes 1 serving**
