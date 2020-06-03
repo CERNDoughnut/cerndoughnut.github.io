@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Marinaded Tofu Sandwich & Salad 
-subtitle: Great for lunch, this tofu and salad combo is sure to hit the spot!
+subtitle: Great for lunch, this tofu sandwich and salad combo is sure to hit the spot!
 featured-image: /images/2020-06-03/tofu_sandwich.jpg
 tags: [recipe, lunch, versatile, vegan, protein, sandwich]
 date-string: JUNE 03, 2020
