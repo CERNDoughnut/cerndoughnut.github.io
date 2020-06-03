@@ -14,6 +14,8 @@ This versatile tofu can be added to many dishes to spice things up with some hea
 
 The tofu is best left to marinade in the fridge overnight so it soaks up the most flavour. It should last in the fridge (in a sealed container) for about a week, but your mileage may vary.
 
+>**Protip**: You can also use the marinade as a stir-fry sauce!
+
 ## Nutrition per serving (roughly)
 
 >**Makes 4 servings**
