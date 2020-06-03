@@ -22,13 +22,13 @@ The tofu is best left to marinade in the fridge overnight so it soaks up the mos
 
 | Calories | Carbohydrates | Fat | Protein |
 |:--------:|:-------------:|:---:|:-------:|
-| 87       | 52.5          | 8.9 | 12.6    |
+| 137      | 6.1           | 8.6 |  9.1    |
 
 ### Full recipe (including optional extras & peppers/spring onions)
 
 | Calories | Carbohydrates | Fat | Protein |
 |:--------:|:-------------:|:---:|:-------:|
-| 118      | 57.9          | 9.0 | 13.2    |
+| 167      | 11.5          | 8.7 | 9.7    |
 
 ## Ingredients
 
