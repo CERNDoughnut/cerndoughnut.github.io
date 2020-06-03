@@ -8,15 +8,15 @@ tags: [recipe, lunch, versatile, vegan, protein, sandwich]
 date-string: JUNE 03, 2020
 ---
 
-This recipe makes use of the base [marinaded stir-fry tofu recipe](./2020-06-03-marinaded-tofu.md). You can use any type of bread (or skip it entirely!) but for best results I'd recommend a freshly baked, crusty roll or a bake-at-home petit pain.
+This recipe makes use of the base [marinaded stir-fry tofu recipe](./2020-06-03-marinaded-tofu.html). You can use any type of bread (or skip it entirely!) but for best results I'd recommend a freshly baked, crusty roll or a bake-at-home petit pain.
 
 >**Makes 1 serving**
 
-**For nutrition info, add the base [marinaded stir-fry tofu recipe](./2020-06-03-marinaded-tofu.md) numbers to whatever bread, condiments and side salad you choose.**
+**For nutrition info, add the base [marinaded stir-fry tofu recipe](./2020-06-03-marinaded-tofu.html) numbers to whatever bread, condiments and side salad you choose.**
 
 ## Ingredients (guideline - add ingredients you love to mix it up!)
 
-- 1 serving of the [marinaded stir-fry tofu recipe](./2020-06-03-marinaded-tofu.md) (I like to include the peppers and spring onions)
+- 1 serving of the [marinaded stir-fry tofu recipe](./2020-06-03-marinaded-tofu.html) (I like to include the peppers and spring onions)
 - Bake at home petit pain or fresh, crusty bread roll
 - Salad leaves
 - Baby plum or cherry tomatoes
