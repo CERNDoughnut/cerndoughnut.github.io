@@ -8,17 +8,33 @@ tags: [recipe, base, versatile, vegan, protein]
 date-string: JUNE 03, 2020
 ---
 
-# Marinaded Stir-fry Tofu with Peppers and Spring Onions
+# Marinaded Stir-fry Tofu
 
 This versatile tofu can be added to many dishes to spice things up with some healthy, vegan protein! My favourite combo is to add some red, orange or yellow peppers and spring onion but feel free to put your own spin on it by adding your own favourite veg!
 
 The tofu is best left to marinade in the fridge overnight so it soaks up the most flavour. It should last in the fridge (in a sealed container) for about a week, but your mileage may vary.
 
+## Nutrition per serving (roughly)
+
+>**Makes 4 servings**
+
+### Basic recipe (no optional extras or veg)
+
+| Calories      | Carbohydrates |     Fat       |    Protein    |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+| 87            | 52.5          | 8.9           | 12.6          |
+
+### Full recipe (including optional extras & peppers/spring onions)
+
+| Calories      | Carbohydrates |     Fat       |    Protein    |
+|:-------------:|:-------------:|:-------------:|:-------------:|
+| 118           | 57.9          | 9.0           | 13.2          |
+
 ## Ingredients
 
 ### Basic
 
-- 280g very firm tofu, drained (I like to use [Naked Tofoo](https://tofoo.co.uk/products?type=tofoo-blocks))
+- 280g firm or very firm tofu, drained (I like to use [Naked Tofoo](https://tofoo.co.uk/products?type=tofoo-blocks))
 - 1 tbsp toasted sesame oil
 - 1 tbsp maple syrup
 - 1 tbsp light soy sauce (or whatever type of soy sauce you have lying around)
@@ -29,6 +45,8 @@ The tofu is best left to marinade in the fridge overnight so it soaks up the mos
 
 - Small squeeze of BBQ sauce (I use [Heinz](https://www.heinz.co.uk/sauces/product/100185200001/classic-barbecue-sauce), 0.5 serving)
 - Chilli seeds/chilli powder/fresh chillies (chopped finely) or something else spicy, to taste
+
+>**Other ideas (I don't usually put these in but they sound tasty)**: garlic, ginger, lime juice, hot sauce, chopped peanuts...
 
 ### Prep these on the day (also optional)
 
