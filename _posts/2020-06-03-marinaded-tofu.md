@@ -46,7 +46,7 @@ The tofu is best left to marinade in the fridge overnight so it soaks up the mos
 - Small squeeze of BBQ sauce (I use [Heinz](https://www.heinz.co.uk/sauces/product/100185200001/classic-barbecue-sauce), 0.5 serving)
 - Chilli seeds/chilli powder/fresh chillies (chopped finely) or something else spicy, to taste
 
->**Other ideas (I don't usually put these in but they sound tasty)**: garlic, ginger, lime juice, hot sauce, chopped peanuts...
+>**Other ideas (I don't usually put these in but they sound tasty)**: garlic, ginger, lime juice, hot sauce, chopped peanuts, crunchy peanut butter...
 
 ### Prep these on the day (also optional)
 
